@@ -1,3 +1,4 @@
+/**This is a test comment to check git repo */
 const imagesContainer = document.querySelector('.carousel-images');
 const images = document.querySelectorAll('.carousel-images .carousel-item');
 const leftArrow = document.querySelector('.left-arrow');
